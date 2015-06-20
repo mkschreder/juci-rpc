@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/juci-cgi.dir/main.c.o CMakeFiles/juci-cgi.dir/multipart_parser.c.o  -o juci-cgi  -L../lib  -L../../lib  -lubox -lubus -Wl,-rpath,../lib:../../lib: 

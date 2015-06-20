@@ -1,0 +1,2 @@
+/data/intranet/software/rpconfig/ubus-mod-juci/io/CMakeFiles/juci-cgi.dir
+/data/intranet/software/rpconfig/ubus-mod-juci/CMakeFiles/ubus-mod-juci.dir

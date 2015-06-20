@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC    -shared -Wl,-soname,ubus-mod-juci.so -o ubus-mod-juci.so CMakeFiles/ubus-mod-juci.dir/juci.c.o  -L../lib -lubox -lubus -Wl,-rpath,../lib: 
